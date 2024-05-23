@@ -23,7 +23,7 @@
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <sonar.organization>fadhil-as</sonar.organization>
+    <sonar.organization>fadhil-as</sonar.organization> <!-- project key -->
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  </properties>
 
